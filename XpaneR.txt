@@ -24,10 +24,10 @@ vless://a6abf70b-f734-42e5-ace6-208e4d53d207@95.163.210.75:443?flow=xtls-rprx-vi
 
 vless://7eac469e-9ee8-4ae0-ba95-c512ac1cc772@apps.awakeocho.top:443?security=reality&encryption=none&pbk=uAFEaryFgy8Ahh0OVcTxmp0naBWqCh99gI3t1CSiQSg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&sid=647285cddfa8#🎮 Gaming | 📶 Ping [1]
 
-vless://7eac469e-9ee8-4ae0-ba95-c512ac1cc772@apps.awakeocho.top:443?security=reality&encryption=none&pbk=uAFEaryFgy8Ahh0OVcTxmp0naBWqCh99gI3t1CSiQSg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&sid=647285cddfa8#🎮 Gaming | 📶 Ping [2]
+vless://7eac469e-9ee8-4ae0-ba95-c512ac1cc772@apps.awakeocho.top:443?security=reality&encryption=none&pbk=uAFEaryFgy8Ahh0OVcTxmp0naBWqCh99gI3t1CSiQSg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&sid=647285cddfa8#🎮 Gaming | 📶 YOUTUBE Ping [2]
 
-vless://4e8c8cac-4171-4d7c-874f-c282c07bc5ae@wiki.shadylivvi.top:443?security=reality&encryption=none&pbk=E_7qLxpo_hBpGhZ4OQNt_gohsaZibDUoJeJB5S0TIBY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&sid=c1c0ca1c9233#🎮 Gaming | 📶 Ping [3]
+vless://4e8c8cac-4171-4d7c-874f-c282c07bc5ae@wiki.shadylivvi.top:443?security=reality&encryption=none&pbk=E_7qLxpo_hBpGhZ4OQNt_gohsaZibDUoJeJB5S0TIBY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&sid=c1c0ca1c9233#🎮 Gaming | 📶 YOUTUBE [3]
 
-vless://2ab2d56d-f839-4919-8b10-563016217c46@lyncdiscover.juicyatabey.cfd:443?security=reality&encryption=none&pbk=1iO39ddjVMeDzybkFcCCm6DFRPSLK3SG309VUoAHRDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=d82dea6dbf4f#🎮 Gaming | 📶 Ping [4]
+vless://2ab2d56d-f839-4919-8b10-563016217c46@lyncdiscover.juicyatabey.cfd:443?security=reality&encryption=none&pbk=1iO39ddjVMeDzybkFcCCm6DFRPSLK3SG309VUoAHRDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=d82dea6dbf4f#🎮 Gaming | 📶 YOUTUBE [4]
 
-vless://07919d10-7c58-4233-aa73-e11959ceec3e@dev.mothyleela.cfd:443?security=reality&encryption=none&pbk=fdlLBHIsCrg4AO58fyVIxRSntVs_EEIRkbluVvrwLX4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=1fe24dd9a082#🎮 Gaming | 📶 Ping [5]
+vless://07919d10-7c58-4233-aa73-e11959ceec3e@dev.mothyleela.cfd:443?security=reality&encryption=none&pbk=fdlLBHIsCrg4AO58fyVIxRSntVs_EEIRkbluVvrwLX4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=1fe24dd9a082#🎮 Gaming | 📶 YOUTUBE [5]
